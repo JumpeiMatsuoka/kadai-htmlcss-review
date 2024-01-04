@@ -1,4 +1,6 @@
 header{
+    width:1000px;
+    margin:0 auto;
     background-color:#ffcccc;
 }
 #wrapper{
@@ -18,5 +20,7 @@ header{
      background-color:#ccccff;
 }
 footer {
+    width:1000px;
+    margin:0 auto;
     background-color:#ffccff;
     }
